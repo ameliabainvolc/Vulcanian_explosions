@@ -1,8 +1,8 @@
 # Vulcanian_explosions
-Codes calculating parameters relevant to Vulcanian explosions
+<u>Codes calculating parameters relevant to Vulcanian explosions</u>
 
 Please cite as:
-Bain, 2023. Vulcanian explosions, Available at: https://github.com/ameliabainvolc/Vulcanian_explosions
+<b>Bain, 2023. Vulcanian explosions, Available at: https://github.com/ameliabainvolc/Vulcanian_explosions</b>
 
 Toramaru_2006_v1.m and Toramaru_2006_v2.m calculate the absolute value of the decompression rate during a Vulcanian explosion based on the bubble number density of the interior of breadcrust bomb samples ('inflated' in the terminology of Bain et al., 2019a). All equations sourced from Toramaru (2006), with input data taken from Bain et al. (2019a), such as melt H2O content, melt SiO2 content (contained in input_data.xlsx). The bubble number density for samples named ABx was calculated by MEarthSci student Nathan Reid (University of Edinburgh, 2023) using FOAMS (Shea et al., 2010). Melt density calculated based on geochemical data from Bain et al. (2019a). v1 and v2 differ only in terms of the melt temperature considered (see code for details). Each code calculates two values of the decompression rate, with and without accounting for the effect of CO2 on interfacial tension (see code for details).
 
